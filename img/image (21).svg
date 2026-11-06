@@ -1,0 +1,7 @@
+<svg viewBox="0 0 300 450" role="img" aria-label="Copertă provizorie: Proiectul A-94" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="g17" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f1a1b"></stop><stop offset="1" stop-color="#07090a"></stop></linearGradient></defs>
+ <rect width="300" height="450" fill="url(#g17)"></rect><g stroke="#5a7a7c" fill="none" stroke-width="1.5"><rect x="70" y="150" width="160" height="200"></rect><path d="M85 175 H215 M85 195 H190 M85 215 H205"></path></g><rect x="85" y="240" width="130" height="16" fill="#0a0a0a"></rect><rect x="85" y="266" width="90" height="16" fill="#0a0a0a"></rect><text x="150" y="330" text-anchor="middle" font-family="Inter" font-size="14" letter-spacing="6" fill="#b0161f">CLASIFICAT</text>
+ <text x="150" y="22" text-anchor="middle" font-family="Inter" font-size="7" letter-spacing="1.5" fill="#cfd8d6" opacity=".7">UN ROMAN STANDALONE</text>
+ <text x="150" y="70" text-anchor="middle" font-family="Cormorant Garamond" font-size="36" letter-spacing="1" fill="#cfd8d6">PROIECTUL</text>
+ <text x="150" y="104" text-anchor="middle" font-family="Cormorant Garamond" font-size="30" letter-spacing="1" fill="#cfd8d6">A-94</text>
+ 
+ <text x="150" y="432" text-anchor="middle" font-family="Cormorant Garamond" font-size="16" letter-spacing="3" fill="#cfd8d6" opacity=".85">CHRISTIANA CIOCAN</text></svg>

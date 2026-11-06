@@ -1,0 +1,13 @@
+<svg viewBox="0 0 300 450" role="img" aria-label="Copertă provizorie: Moștenirea sinistră" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="g12" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22100f"></stop><stop offset="1" stop-color="#0c0809"></stop></linearGradient></defs>
+ <rect width="300" height="450" fill="url(#g12)"></rect><g transform="translate(0,30)"><defs><radialGradient id="m13" cx="45%" cy="35%" r="70%"><stop offset="0" stop-color="#c9b9a6"></stop><stop offset="1" stop-color="#5a1a18"></stop></radialGradient></defs>
+<path d="M150 40 C70 110 52 250 58 460 L242 460 C248 250 230 110 150 40Z" fill="#0d0d0f" stroke="#2c2c31" stroke-width="2"></path>
+<path d="M150 70 C95 130 80 230 86 460 M150 70 C205 130 220 230 214 460" stroke="#1d1d22" stroke-width="2" fill="none"></path>
+<path d="M150 135 C105 135 88 180 90 222 C93 270 122 305 150 312 C178 305 207 270 210 222 C212 180 195 135 150 135Z" fill="url(#m13)" stroke="#d4b57a" stroke-opacity=".45" stroke-width="1.5"></path>
+<path d="M104 222 C116 202 140 204 146 228 C134 240 114 240 104 222Z" fill="#000" stroke="#d4b57a" stroke-opacity=".5"></path><path d="M196 222 C184 202 160 204 154 228 C166 240 186 240 196 222Z" fill="#000" stroke="#d4b57a" stroke-opacity=".5"></path>
+<path d="M150 158 L157 175 L150 196 L143 175Z M140 168 C130 172 130 186 143 188 M160 168 C170 172 170 186 157 188" fill="none" stroke="#d4b57a" stroke-width="1.6"></path>
+<path d="M110 250 L96 280 M190 250 L206 290 M160 250 L172 300" stroke="#b0161f" stroke-width="3"></path></g>
+ <text x="150" y="22" text-anchor="middle" font-family="Inter" font-size="7" letter-spacing="1.5" fill="#c43a3a" opacity=".7">CARTEA A III DIN SERIA IMPERIUL UMBRELOR</text>
+ <text x="150" y="70" text-anchor="middle" font-family="Cormorant Garamond" font-size="36" letter-spacing="1" fill="#c43a3a">MOȘTENIREA</text>
+ <text x="150" y="104" text-anchor="middle" font-family="Cormorant Garamond" font-size="30" letter-spacing="1" fill="#c43a3a">SINISTRĂ</text>
+ 
+ <text x="150" y="432" text-anchor="middle" font-family="Cormorant Garamond" font-size="16" letter-spacing="3" fill="#c43a3a" opacity=".85">CHRISTIANA CIOCAN</text></svg>

@@ -1,0 +1,7 @@
+<svg viewBox="0 0 300 470" preserveAspectRatio="xMidYMid meet" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><defs><radialGradient id="m1" cx="45%" cy="35%" r="70%"><stop offset="0" stop-color="#44444a"></stop><stop offset="1" stop-color="#060607"></stop></radialGradient></defs>
+<path d="M150 40 C70 110 52 250 58 460 L242 460 C248 250 230 110 150 40Z" fill="#0d0d0f" stroke="#2c2c31" stroke-width="2"></path>
+<path d="M150 70 C95 130 80 230 86 460 M150 70 C205 130 220 230 214 460" stroke="#1d1d22" stroke-width="2" fill="none"></path>
+<path d="M150 135 C105 135 88 180 90 222 C93 270 122 305 150 312 C178 305 207 270 210 222 C212 180 195 135 150 135Z" fill="url(#m1)" stroke="#c8a868" stroke-opacity=".45" stroke-width="1.5"></path>
+<path d="M104 222 C116 202 140 204 146 228 C134 240 114 240 104 222Z" fill="#000" stroke="#c8a868" stroke-opacity=".5"></path><path d="M196 222 C184 202 160 204 154 228 C166 240 186 240 196 222Z" fill="#000" stroke="#c8a868" stroke-opacity=".5"></path>
+<path d="M150 158 L157 175 L150 196 L143 175Z M140 168 C130 172 130 186 143 188 M160 168 C170 172 170 186 157 188" fill="none" stroke="#c8a868" stroke-width="1.6"></path>
+</svg>
